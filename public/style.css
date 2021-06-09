@@ -1,0 +1,89 @@
+body
+{
+    background-color:aliceblue;
+    min-height: 80vh;
+    /* text-align: center; */
+    padding :1rem;
+    background-color: #e8fffd;
+    background-image: url("https://www.transparenttextures.com/patterns/arches.png");
+
+    
+
+
+}
+.heading {
+    color:white;
+    
+}
+.headcontainer{
+    border-radius: 12px;
+    max-width: 200px;
+    margin:auto;
+    background-color: coral;
+    box-shadow: 0 1px 2px;
+    
+    
+}
+
+.container{
+    text-align: center;
+    height : auto;
+    background-color:white;
+    min-height: 500px;
+    max-width: 320px;
+    margin:auto;
+    padding-top: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 3px 4px rosybrown;
+    background-color: #f5f4f2;
+    background-color: #fffcfc;
+    background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+
+     
+} 
+
+.form {
+    
+    padding-top: 20px;
+}
+
+.Input{
+    border-radius: 6px;
+    height: 25px;
+}
+.button{
+    position: relative;
+    top: 5px;
+    box-shadow: 1px 1px 1px 1px brown;
+    margin-left: 3px;
+    padding: auto;
+    border:none;
+    outline: none;
+    border-radius: 50%;
+    height:30px;
+    width: 30px;
+    color:rgb(0, 247, 255);
+    background-color: rgb(255, 230, 0);
+    cursor: pointer;
+
+}
+span{
+    position: relative;
+    right : 5px;
+    top:4px
+}
+
+.TodoList
+{
+    text-align: left;
+    font-family: 'Indie Flower', cursive;
+    font-size:xx-large;
+    
+}
+.TodoList li{
+    list-style: none;
+}
+
+
+
+
